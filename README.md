@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
   - Become a more confident developer and contributor
-  - lending my expertise to empower and inspire others on their coding journeys
+  - Lending my expertise to empower and inspire others on their coding journeys
 - 🌱 I’m currently learning ...
   - C Programming Language
   - Machine Learning
