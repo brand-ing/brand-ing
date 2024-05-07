@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ...
-  C Programming Language
-  Machine Learning
-  LeetCode and Dynamic Programming
+  - C Programming Language
+  - Machine Learning
+  - LeetCode and Dynamic Programming
