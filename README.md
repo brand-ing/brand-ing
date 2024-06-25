@@ -20,3 +20,5 @@ Hi there! I'm Brandon, a passionate and dedicated new graduate interested in cyb
   - Machine Learning
  
  ### Contact Me
+  - email
+  - linkedIn
