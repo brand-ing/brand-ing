@@ -15,7 +15,7 @@ Hi, I'm Brandon, a passionate and dedicated new graduate interested in cybersecu
 
 I am also very interested in Machine Learning and artificial intelligence.
 
-I am also very interested in Machine Learning and Artificial Intelligence. In my spare time, I enjoy reading and have recently developed a passion for 3D digital art.
+I am also very interested in Machine Learning and Artificial Intelligence. In my spare time, I enjoy reading and have recently developed a passion for 3D digital art and cooking.
 ## 🔭 Projects
 
 <!-- ## 🌱 Growing in...
