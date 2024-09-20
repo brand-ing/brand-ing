@@ -1,26 +1,65 @@
-# Hello World!
+# 👋 Hello! I'm Brandon
 
+### 🌟 About Me
+
+- 🎓 I’m currently pursuing a degree in **Computer Science** at Georgia State University
+- 🧠 My interests include:
+  - 🖥️ Software development
+  - 💼 Finance and FinTech
+  - 📈 Advancing society through math and science
+  - 🤖 AI, Machine Learning, and Data Science
+- 💡 I love solving real-world problems with technology and collaborating on innovative projects.
+
+---
+
+### 🚀 Projects
+
+#### 1. [Study Group Finder](https://github.com/brand-ing/study-group-finder)
+A web app that helps students find and form study groups based on location, interests, and subjects.
+
+- **Role**: Team Lead
+- **Tech Stack**: Python, Django, PostgreSQL
+- **Description**: Helping students connect and collaborate for effective study sessions.
 <!--
-**brand-ing/brand-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 2. [Pomodoro Time Visualizer](https://github.com/brand-ing/pomodoro-time-visualizer)
+A Chrome Extension that allows users to visualize their time blocks in a minimal, effective way.
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Role**: Solo Developer
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Description**: Simple time-tracking tool to boost productivity.
 -->
-Hi, I'm Brandon, a passionate and dedicated new graduate interested in cybersecurity. I have a strong background in Computer Science from Georgia State University. I'm eager to apply my skills and knowledge to real-world security challenges and contribute to the field of cybersecurity.
+#### 3. [TODOX-3000](https://github.com/brand-ing/todox-3000)
+A terminal-based to-do list app designed for developers who prefer simplicity and speed.
 
-I am also very interested in Machine Learning and artificial intelligence.
+- **Role**: Solo Developer
+- **Tech Stack**: Python
+- **Description**: A CLI app with branches for stable releases, development, and features.
 
-I am also very interested in Machine Learning and Artificial Intelligence. In my spare time, I enjoy reading and have recently developed a passion for 3D digital art and cooking.
-## 🔭 Projects
+---
 
-<!-- ## 🌱 Growing in...
-  - C Programming Language
- -->
- ## 📫 How to reach me...
-  - Email
-  - LinkedIn
+### 🛠️ Skills
+
+- **Languages**: Python, JavaScript, HTML, CSS, SQL
+- **Frameworks/Libraries**: Django, Flask, React
+- **Tools**: Git, Docker, PostgreSQL
+- **Areas of Interest**: Machine Learning, Data Science, Software Engineering, FinTech
+
+---
+
+### 📫 How to Reach Me
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/brandon-irving-99538b175/)
+<!--
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+-->
+---
+
+### 💡 Fun Facts
+
+- 💻 I'm passionate about contributing to open-source projects.
+- 🎮 In my free time, I love gaming and exploring the latest in tech.
+- 📚 Always excited to learn and experiment with new technologies!
+
+Feel free to check out my repositories or connect with me!
+
