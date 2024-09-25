@@ -48,8 +48,8 @@ A terminal-based to-do list app designed for developers who prefer simplicity an
 
 ### 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/brandon-irving-99538b175/)
+- **Email**: [email](mailto:birving3@student.gsu.edu)
+- **LinkedIn**: [linkedin](https://linkedin.com/in/brandon-irving-99538b175/)
 <!--
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 -->
