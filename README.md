@@ -18,7 +18,7 @@
 A web app that helps students find and form study groups based on location, interests, and subjects.
 
 - **Role**: Team Member
-- **Tech Stack**: React, Springboot, Firebase
+- **Tech Stack**: React, Firebase
 - **Description**: Helping students connect and collaborate for effective study sessions.
 <!--
 #### 2. [Pomodoro Time Visualizer](https://github.com/brand-ing/pomodoro-time-visualizer)
