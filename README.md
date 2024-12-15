@@ -56,10 +56,8 @@ A terminal-based to-do list app designed for developers who prefer simplicity an
 ---
 
 ### 💡 Fun Facts
-
-- 💻 I'm passionate about contributing to open-source projects.
 - 🎮 In my free time, I love gaming and exploring the latest in tech.
-- 📚 Always excited to learn and experiment with new technologies!
+
 
 Feel free to check out my repositories or connect with me!
 
